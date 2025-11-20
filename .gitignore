@@ -1,0 +1,21 @@
+# Node/React
+node_modules/
+build/
+dist/
+.env
+npm-debug.log
+yarn-error.log
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+*.db
+*.log
+*.DS_Store
+
+# Misc
+.vscode/
+.idea/
